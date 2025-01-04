@@ -2,4 +2,6 @@ div{
     background-color: aquamarine;
     font-size: 25px;
     color: brown;
+    padding: 20px;
+    border-radius: 5px solid #ff7200;
 }
